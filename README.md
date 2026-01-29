@@ -1,5 +1,7 @@
 # nanux
 
+i686 nano-distro based on musl and busybox
+
 ## Building in your host
 
 ### Prepare your host environment
